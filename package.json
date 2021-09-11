@@ -1,10 +1,10 @@
 {
-  "name": "@pooltogether/hooks",
+  "name": "@pooltogether1q/hooks",
   "version": "0.2.9",
   "description": "Useful hooks for PoolTogether applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository": "https://github.com/ddesrosier/pooltogether-hooks.git",
+  "repository": "https://github.com/P0DWOG/pooltogether-hooks",
   "author": "PoolTogether Inc.",
   "license": "MIT",
   "files": [
