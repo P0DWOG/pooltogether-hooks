@@ -108,7 +108,7 @@ export const useInitializeOnboard = (
 const initOnboard = (subscriptions, walletConfig) => {
   const onboard = Onboard
 
-  const APP_NAME = 'PoolTogether'
+  const APP_NAME = 'Mune'
   const {
     infuraId: INFURA_ID,
     fortmaticKey: FORTMATIC_KEY,
@@ -148,8 +148,8 @@ const initOnboard = (subscriptions, walletConfig) => {
     {
       walletName: 'trezor',
       preferred: true,
-      appUrl: 'https://app.pooltogether.com',
-      email: 'hello@pooltogether.com',
+      appUrl: 'https://play.mune.finance/q/',
+      email: 'munefinance@protonmail.com',
       rpcUrl: RPC_URL
     },
     {
